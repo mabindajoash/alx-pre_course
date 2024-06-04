@@ -1,1 +1,2 @@
-My first readme
+Did my first commit and branching
+hooray!
